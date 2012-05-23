@@ -49,6 +49,7 @@ Only a few plugins are currently available
 * api
   * fnReloadAjax
   * fnGetColumnData
+  * fnSetFilteringDelay
 * sorting
   * numbersHtml
 * typeDetection
